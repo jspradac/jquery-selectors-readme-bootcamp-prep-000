@@ -1,4 +1,4 @@
 // declare your functions here...
-function paaragraphSelevtor() {
-  
+function paragraphSelector() {
+  return $("p")
 }
