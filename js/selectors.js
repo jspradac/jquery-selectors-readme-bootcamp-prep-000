@@ -9,5 +9,5 @@ function ninjaBabySelector() {
   return $("#baby-ninja");
 }
 function firstListItem() {
-  
+  return $("ul li:first-child");
 }
